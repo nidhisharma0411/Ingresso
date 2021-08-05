@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "7pcAEGwYR97rn1qb5itaWZwZhyEKOTGeEvFok7l9XoQ3rktXgPcpKHUOeU3eFdk35efpBAuUvStaf7inI1zjpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Downloads\\Ingresso--master\\Ingresso--master\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.4\\microsoft.extensions.configuration.3.1.4.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.4\\microsoft.extensions.configuration.fileextensions.3.1.4.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.4\\microsoft.extensions.configuration.json.3.1.4.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.4\\microsoft.extensions.fileproviders.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.4\\microsoft.extensions.fileproviders.physical.3.1.4.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.4\\microsoft.extensions.filesystemglobbing.3.1.4.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\restclient\\3.446.20952\\restclient.3.446.20952.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
